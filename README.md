@@ -1,3 +1,5 @@
+![Jim Medlock Banner](./assets/Jdmedlock_Banner.jpg)
+
 ### Hi I'm Jim 👋
 
 I'm focused on helping Developers bridge what they've learned into the experience needed to land their first job or move up to a better position.
