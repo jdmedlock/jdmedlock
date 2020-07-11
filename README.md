@@ -1,4 +1,4 @@
-![Jim Medlock Banner](./assets/Jdmedlock_Banner.jpg)
+![Jim Medlock Banner](https://github.com/jdmedlock/jdmedlock/blob/master/assets/Jdmedlock_Banner.png)
 
 ### Hi I'm Jim 👋
 
