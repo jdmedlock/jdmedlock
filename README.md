@@ -11,4 +11,4 @@ advance their career.
 Despite this what's still needed is a way for Developers to turn what they've learned into experience and expertise. The same experience and expertise
 that will make them stand above other job candidates.
 
-This is what I'm focused on at Chingu, Inc.
+This is what I'm focused on at [Chingu, Inc](https://chingu.io).
