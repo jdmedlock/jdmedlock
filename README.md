@@ -16,3 +16,5 @@ learned into experience and expertise. The same experience and expertise
 that will make them stand above other job candidates.
 
 This is what I'm focused on at [Chingu, Inc](https://chingu.io).
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jdmedlock)](https://github.com/anuraghazra/github-readme-stats)
