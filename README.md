@@ -17,9 +17,5 @@ that will make them stand above other job candidates.
 
 This is what I'm focused on at [Chingu, Inc](https://chingu.io).
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&count_private=true&theme=cobalt" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=cobalt" />
-</a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jdmedlock&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdmedlock&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
